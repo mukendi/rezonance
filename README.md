@@ -113,7 +113,7 @@ Pour obtenir une copie locale opérationnelle, suivez ces exemples d'étapes sim
 
 1. Cloner le dépôt
 ```sh
-git clone https://github.com/mukendi/reZonance
+git clone https://github.com/mukendi/rezonance
 ```
 
 2. Configuration requise pour l'installation
@@ -134,7 +134,7 @@ python3 app.py
 
 1. Cloner le dépôt
 ```sh
-git clone https://github.com/mukendi/reZonance
+git clone https://github.com/mukendi/rezonance
 ```
 
 2. Installez les packages requis
