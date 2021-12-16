@@ -7,7 +7,7 @@
 <!-- LOGO DU PROJET -->
 <br />
 <p align="center">
-  <a href="https://github.com/tukadi/reZonance">
+  <a href="https://github.com/mukendi/reZonance">
     <img src="STATIC_IMG/head.svg" alt="Logo" width="420" height="420">
   </a>
 
@@ -113,7 +113,7 @@ Pour obtenir une copie locale opérationnelle, suivez ces exemples d'étapes sim
 
 1. Cloner le dépôt
 ```sh
-git clone https://github.com/tukadi/reZonance
+git clone https://github.com/mukendi/reZonance
 ```
 
 2. Configuration requise pour l'installation
@@ -134,7 +134,7 @@ python3 app.py
 
 1. Cloner le dépôt
 ```sh
-git clone https://github.com/tukadi/reZonance
+git clone https://github.com/mukendi/reZonance
 ```
 
 2. Installez les packages requis
@@ -155,8 +155,6 @@ démarrage npm
 <!-- EXEMPLES D'UTILISATION -->
 ## Utilisation
 
-
-* ### Visitez le [site web](https://rezonance.vercel.app) et cliquez sur démarrer
 
 <img src="STATIC_IMG/ss1.png">
 
