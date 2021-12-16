@@ -1,9 +1,3 @@
-[![Contributeurs][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Problèmes][issues-shield]][issues-url]
-[![Licence MIT][license-shield]][license-url]
-
 <!-- LOGO DU PROJET -->
 <br />
 <p align="center">
@@ -163,4 +157,4 @@ démarrage npm
 <img src="STATIC_IMG/ss2.png">
 
 
-* ### Dans la page de recommandation, cliquez sur
+* ### Dans la page de recommandation, cliquez sur 
